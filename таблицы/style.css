@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+td,
+th,
+caption {
+    border: 1px solid black;
+}
+
+caption {
+    border-bottom: none;
+}
+
+.выходные_дни {
+    color:red ;
+}
+
