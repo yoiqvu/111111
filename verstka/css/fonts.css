@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Ubuntu";
-    src:local("Ubuntu"), url("../fonts/UbuntuMedium.woff2"), format("woff2");
+    src:local("Ubuntu"), url("./verstka/fonts/UbuntuMedium.woff2"), format("woff2");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: "Ubuntu";
-    src:local("Ubuntu"), url("../fonts/UbuntuLight.woff2"), format("woff2");
+    src:local("Ubuntu"), url("./verstka/fonts/UbuntuLight.woff2"), format("woff2");
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: "Ubuntu";
-    src:local("Ubuntu"), url("../fonts/UbuntuRegular.woff2"), format("woff2");
+    src:local("Ubuntu"), url("./verstka/fonts/UbuntuRegular.woff2"), format("woff2");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
     font-family: "Oswald";
-    src:local("Oswald"), url("../fonts/OswaldMedium.woff2"), format("woff2");
+    src:local("Oswald"), url("./verstka/fonts/OswaldMedium.woff2"), format("woff2");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -33,7 +33,7 @@
 
 @font-face {
     font-family: "Oswald";
-    src: local("Oswald"), url(../fonts/OswaldSemiBold.woff2), format(woff2);
+    src: local("Oswald"), url(./verstka/fonts/OswaldSemiBold.woff2), format(woff2);
     font-weight: 600;
     font-style: normal;
     font-display: swap;
