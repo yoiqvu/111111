@@ -1,0 +1,85 @@
+html {
+    font-family: Ubuntu, Oswald, sans-serif;
+    font-weight: 400;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1250px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.article {
+    padding-top:80px;
+}
+
+.article-title {
+    max-width: 596px;
+    margin-bottom: 50px;
+    font-family: Oswald;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 115%;
+    text-transform: uppercase;
+    color: #2c332f;
+}
+
+.article-text {
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    color: #535755;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+.article-img {
+    margin-bottom: 80px;
+}
+
+.article-title-mid {
+    margin-bottom: 41px;
+    max-height: 41.41px;
+    max-width: 596px;
+    line-height: 41.4px;
+    font-family: Oswald;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 115%;
+    text-transform: uppercase;
+    color: #2c332f;
+    margin-top: 0px;
+}
+
+.article-text-group {
+   color: #535755; 
+}
+
+.article-items {
+    margin-bottom: 10px;
+    color: #535755;
+}
+
+.video {
+    margin-bottom: 40px;
+}
+
+
+.invite {
+    margin-bottom: 120px;
+    color: #535755;
+}
+
+.article-list {
+    padding: 20px;
+}
