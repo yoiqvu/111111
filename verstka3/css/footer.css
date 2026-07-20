@@ -1,0 +1,51 @@
+.footer {
+    background: linear-gradient(
+        90deg,
+        rgba(73, 169, 255, 0.2) 0%,
+        rgba(252, 124, 217, 0.2) 100%
+    );
+    text-align: center;
+    margin-top: auto;
+}
+
+.footer-top {
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #d3cbd9;
+}
+
+.footer-logo {
+    display: inline-block;
+    margin-bottom: 40px;
+    margin-top: 60px;
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+.menu a {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    color: #535755;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.menu a:hover {
+    color: #3596ed;;
+}
+
+.copyright {
+    font-weight: 400px;
+    font-size: 14px;
+    letter-spacing: 0.04em;
+    color: #858e8a;
+    padding-bottom: 40px;
+}
